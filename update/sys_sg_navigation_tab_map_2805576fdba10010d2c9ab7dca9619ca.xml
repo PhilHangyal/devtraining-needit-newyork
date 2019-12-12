@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
     <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
-        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation/>
         <navigation_tab display_value="NeedIt">171593afdba10010d2c9ab7dca9619e4</navigation_tab>
         <order>12</order>
         <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
